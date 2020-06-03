@@ -1,0 +1,4 @@
+# git ignore file
+
+/__pycache__/
+*.DS_Store
