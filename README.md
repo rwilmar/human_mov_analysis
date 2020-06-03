@@ -25,6 +25,15 @@ and execute the command
 
     bokeh serve --show dashboard
 
+## Preview
+Dashboard head,with the signal browser and videoframe preview
+![Head and Main Speed signal browser](/images/screenshot1.png)
+Detailed speed graphs per joint timeseries and freq analysis
+![Detail Speed per joint](/images/screenshot2.png)
+Advanced frequency analysis heatmap and datatable
+![Advanced Frequency analysis](/images/screenshot3.png)
+also includes working video preview
+
 ## Licences
 
 This example uses code from the following projects:
